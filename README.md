@@ -36,7 +36,7 @@
 ## Installation:
 ```
 ### Step 1: Clone the Repository
-Clone the tool from the GitHub repository:
+Clone the tool from the GitHub repository Of course, the installation commands contain everything we need for the purpose of precautions:
 
 
 ```bash
@@ -44,6 +44,8 @@ git clone https://github.com/MohamedAbuAl-Saud/MITM-DF.git
 cd MITM DF
 sudo apt update
      sudo apt install -y ettercap-text-only sslstrip iptables nmap dsniff driftnet bettercap python3
+chmod +x setup.sh
+bash setup.sh
 chmod +x mitmdf.sh
 sudo ./mitmdf.sh
 ```
