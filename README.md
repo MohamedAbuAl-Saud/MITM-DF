@@ -37,6 +37,9 @@
 
 ### Step 1: Clone the Repository
 Clone the tool from the GitHub repository:
+```
+
+
 ```bash
 git clone https://github.com/MohamedAbuAl-Saud/MITM-DF
 cd MITM DF
@@ -198,17 +201,5 @@ bettercap -iface eth0 -caplet hstshijack/hstshijack
 
 ---
 
-## License:
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contributing:
-Contributions are welcome! Please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-repo/mitmdf).
-
----
-
 ## Support:
 For support or questions, contact the developer via [Telegram](https://t.me/A_Y_TR) or visit the [Telegram Channel](https://t.me/cybersecurityTemDF).
-```
-
