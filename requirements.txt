@@ -1,0 +1,8 @@
+ettercap-text-only
+sslstrip
+iptables
+nmap
+dsniff
+driftnet
+bettercap
+python3
