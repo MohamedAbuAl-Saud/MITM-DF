@@ -1,6 +1,6 @@
 # MITM-DF 
 #آلقيـــــــــــــــآدهہ‌‏ آلزعيـــم
-```markdown
+
 # MITM DF - Man-In-The-Middle Attack Tool
 **MITM DF** is a comprehensive and powerful tool designed to perform **Man-In-The-Middle** (MITM) attacks on local networks. It integrates multiple techniques such as **ARP Spoofing**, **DNS Spoofing**, and **SSL Stripping** to execute sophisticated attacks. This tool is intended for **educational purposes**, **security testing**, and **ethical hacking**. Unauthorized use is strictly prohibited.
 
