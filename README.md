@@ -199,6 +199,9 @@ bettercap -iface eth0 -caplet hstshijack/hstshijack
 - **Ensure you have written permission before using it on any network**.
 
 ---
+##Licensing: 
 
+--- ## License: This project is licensed under the [MIT License](LICENSE). Permission is granted to use, modify, and distribute the tool for any purpose, including commercial purposes, provided that the original copyright notice and license statement are included in all copies or substantial portions of the program. See the [LICENSE](LICENSE) file for details. 
+---
 ## Support:
 For support or questions, contact the developer via [Telegram](https://t.me/A_Y_TR) or visit the [Telegram Channel](https://t.me/cybersecurityTemDF).
