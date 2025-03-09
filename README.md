@@ -128,7 +128,7 @@ Fake URL: http://example.com
 
 
 ## Installation:
-```
+
 ### Step 1: Clone the Repository
 Clone the tool from the GitHub repository Of course, the installation commands contain everything we need for the purpose of precautions:
 ##First of all, I'm sorry for the repeated installation... but for security purposes only..!! 
