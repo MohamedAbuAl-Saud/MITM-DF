@@ -34,14 +34,13 @@
 ---
 
 ## Installation:
-
+```
 ### Step 1: Clone the Repository
 Clone the tool from the GitHub repository:
-```
 
 
 ```bash
-git clone https://github.com/MohamedAbuAl-Saud/MITM-DF
+git clone https://github.com/MohamedAbuAl-Saud/MITM-DF.git
 cd MITM DF
 sudo apt update
      sudo apt install -y ettercap-text-only sslstrip iptables nmap dsniff driftnet bettercap python3
