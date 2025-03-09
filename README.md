@@ -29,8 +29,12 @@
   - `driftnet`
   - `bettercap`
   - `python3`
-
+-------------------
+## Tool features in brief:
+Features of the tool (MITM DF): - It makes the traffic between the victim and the router pass through you - You can see all the data that passes - It changes the address of the site that the victim wants to reach - You can make the victim reach a fake site - It removes the encryption from sites (HTTPS) and makes them (HTTP) - You can see the data that was encrypted - You can catch the data that passes (such as passwords and sessions) - The data is recorded in the mitm_log.txt file... - It creates a fake page that appears to the victim - You can deceive the victim with a fake page - You can catch the images that pass through the network. - The images are saved in the folder `/Downloads/mitmdf_downloads`: - You can know all the devices connected to the network - You can easily choose the target - It activates IP forwarding to facilitate the attack - It makes the traffic pass through you - You can install all the tools you need with the click of a button via the setup.sh file that I added to the repository, as well as the commands and the main tool.. - When you press `Ctrl+C`, the tool stops the attack and returns the settings to normal • The shape of the tool when it works: ```plaintext M I T M - D F Developer: @A_Y_TR Telegram Channel: https://t.me/cybersecurityTemDF Warning: This tool is for educational and security purposes only. Illegal use is prohibited! [!] Enter 0 to uninstall tools or any other key to continue: Choice: 1 [+] Enabling IP Forwarding... [] IP Forwarding enabled successfully! [+] Detecting network interface and router IP... [] Network Interface: eth0 [] Router IP: 192.168.1.1 [+] Scanning connected devices... 192.168.1.2 192.168.1.3 192.168.1.4 [!] Choose the target IP from the list above: Target IP: 192.168.1.2 [!] Enter the domain to spoof (e.g., facebook.com): Domain: facebook.com [!] Enter the IP address to redirect to (e.g., 192.168.1.100): IP Address: 192.168.1.100 [!] Enter the fake URL to display (e.g., http://example.com): Fake URL: http://example.com [+] Modifying etter.dns for DNS Spoofing... [+] Starting ARP Spoofing on 192.168.1.2 ... [+] Starting DNS Spoofing... [+] Starting SSL Stripping with BetterCap... [+] Starting Python HTTP Server to display fake page... [+] Starting packet capture with tcpdump... [+] Starting Driftnet to capture images... [] Attack is running! [!] Press Ctrl+C to stop the attack. ``` 
 ---
+
+
 
 ## Installation:
 ```
