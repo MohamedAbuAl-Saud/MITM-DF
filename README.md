@@ -75,10 +75,16 @@
 
 ### 10. **Automatic Cleanup**:
     - When you press `Ctrl+C`, the tool stops the attack and resets settings to normal.
-##Fake login 
-I added html files for you to publish them on the Internet. Do not create a bot token and your Telegram account ID before publishing the file, so that the login information on the site reaches your Telegram bot..   
-javaI added for you Facebook, TikTok, Instagram and Google login.. written in the language:
+## Fake login: 
+```
+I added html files for you to publish them on the Internet.
+ Do not create a bot token and your Telegram account ID before publishing the file,
+ so that the login information on the site reaches your Telegram bot..   
+I added for you
+ Facebook, TikTok, Instagram and Google
+ login.. written in the language:
 java script & html & Csss 
+```
 ---
 
 ## Tool Interface When Running:
